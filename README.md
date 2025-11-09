@@ -102,4 +102,4 @@ ID tugas dihasilkan secara otomatis (auto-increment) untuk mempermudah pengelola
 
 
 
-???? Selamat menggunakan To-Do List CLI! Jika ada pertanyaan atau saran, silakan hubungi kami. Happy coding! ????
+Selamat menggunakan To-Do List CLI! Jika ada pertanyaan atau saran, silakan hubungi kami. Happy coding!
